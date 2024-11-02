@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Adrian Peña and I'm about to graduate in Computer Science with an interest in computer networking. With a background in customer-focused roles and technical education, I bring a unique mix of communication skills and technical knowledge. Currently, I'm diving into acquiring my CCNA certification and on a journey to learning DevOps.
+My name is Adrian Peña and I'm about to graduate in Computer Science with an interest in computer networking. With a background in customer-focused roles and technical education, I bring a unique mix of communication skills and technical knowledge. Currently, I'm diving into acquiring my CCNA certification and on a path to learning DevSecOps and cloud engineering.
 
 🛠️ **Technical Skills**
 * **Languages**: Python, Java, C++, C, HTML, CSS, JavaScript, Dart
@@ -26,6 +26,7 @@ My name is Adrian Peña and I'm about to graduate in Computer Science with an in
 * **Spotify Scheduler:** My senior project involves creating a DJ-like system using the **Spotify API** and **React**, allowing admins and partygoers to add songs to scheduled playlists in real time.
 
 🎯 **Goals**
+* Currently studying for the **CCNA** to build a solid foundation in computer networking, with a long-term goal of becoming proficient in **cybersecurity**.
 * Gain proficiency in **Infrastructure as Code** and **containerization** tools like Kubernetes.
 * Explore deeper into **cloud engineering** and **DevOps** to create resilient, scalable systems.
 * Continue improving on **React** and **full-stack development** skills for more robust applications.

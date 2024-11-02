@@ -23,7 +23,7 @@ My name is Adrian Peña and I'm about to graduate in Computer Science with an in
 * **Tools:** Git, Linux CLI proficiency
 
 📚 **Current Projects**
-* **Spotify Scheduler:** My senior project involves creating a DJ-like system using the **Spotify API** and **React**, allowing partygoers to a scheduled playlist.
+* **Spotify Scheduler:** My senior project involves creating a DJ-like system using the **Spotify API** and **React**, allowing admins and partygoers to add songs to scheduled playlists in real time.
 
 🎯 **Goals**
 * Gain proficiency in **Infrastructure as Code** and **containerization** tools like Kubernetes.

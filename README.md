@@ -14,24 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Adrian Peña and I'm about to graduate in Computer Science with an interest in computer networking. With a background in customer-focused roles and technical education, I bring a unique mix of communication skills and technical knowledge. Currently, I'm diving into acquiring my CCNA certification and on a path to learning DevSecOps and cloud engineering.
+My name is Adrian Peña, and I am a graduate student pursuing a Master’s in Computer Science with a focus on AI and cybersecurity. Alongside my studies, I work as a teaching assistant (TA) and research assistant, where I explore federated learning and its applications in cybersecurity. With a background in customer-focused roles and technical education, I bring a unique mix of communication skills and technical knowledge.
 
 🛠️ **Technical Skills**
 * **Languages**: Python, Java, C++, C, HTML, CSS, JavaScript, Dart
-* **Frameworks:** Flutter, React (intermediate)
-* **Cloud & DevOps:** Basic experience with AWS and Microsoft Azure, GitHub Actions, and aiming to learn **Terraform** and **Kubernetes**
-* **Tools:** Git, Linux CLI proficiency
+* **Frameworks**: Flutter, React (intermediate)
+* **Cloud & DevOps**: Basic experience with AWS and Microsoft Azure, GitHub Actions, and aiming to learn **Terraform** and **Kubernetes**
+* **Tools**: Git, Linux CLI proficiency
 
 📚 **Current Projects**
-* **Spotify Scheduler:** My senior project involves creating a DJ-like system using the **Spotify API** and **React**, allowing admins and partygoers to add songs to scheduled playlists in real time.
+* **Spotify Scheduler**: My senior project involves creating a DJ-like system using the **Spotify API** and **React**, allowing admins and partygoers to add songs to scheduled playlists in real time.
 
 🎯 **Goals**
-* Currently studying for the **CCNA** to build a solid foundation in computer networking, with a long-term goal of becoming proficient in **cybersecurity**.
-* Gain proficiency in **Infrastructure as Code** and **containerization** tools like Kubernetes.
-* Explore deeper into **cloud engineering** and **DevOps** to create resilient, scalable systems.
-* Continue improving on **React** and **full-stack development** skills for more robust applications.
+* Currently studying for the **Security+** certification to enhance my understanding of cybersecurity fundamentals.
+* Build expertise in **Infrastructure as Code** and **containerization** tools like Kubernetes.
+* Dive deeper into **cybersecurity** topics, including hands-on labs on platforms like TryHackMe, **cryptography**, and **ethical hacking**.
+* Gain additional certifications to further specialize in cybersecurity and secure system design.
 
 📫 **Connect With Me**
-
-* LinkedIn: www.linkedin.com/in/adrian-peña-319451324
-* GitHub: https://github.com/adrianpena100
+* LinkedIn: [Adrian Peña](https://www.linkedin.com/in/adrian-pe%C3%B1a-319451324)
+* GitHub: [adrianpena100](https://github.com/adrianpena100)

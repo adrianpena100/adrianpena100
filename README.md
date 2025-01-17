@@ -26,10 +26,9 @@ My name is Adrian Peña, and I am a graduate student pursuing a Master’s in Co
 * **Spotify Scheduler**: My senior project involves creating a DJ-like system using the **Spotify API** and **React**, allowing admins and partygoers to add songs to scheduled playlists in real time.
 
 🎯 **Goals**
-* Currently studying for the **Security+** certification to enhance my understanding of cybersecurity fundamentals.
-* Build expertise in **Infrastructure as Code** and **containerization** tools like Kubernetes.
-* Dive deeper into **cybersecurity** topics, including hands-on labs on platforms like TryHackMe, **cryptography**, and **ethical hacking**.
-* Gain additional certifications to further specialize in cybersecurity and secure system design.
+* Pursue the **Security+** certification and expand my knowledge in cybersecurity fundamentals.
+* Build hands-on experience in **ethical hacking**, **cryptography**, and secure system design using platforms like TryHackMe.
+* Develop a strong foundation in **Infrastructure as Code** and **containerization** tools for secure cloud environments.
 
 📫 **Connect With Me**
 * LinkedIn: [Adrian Peña](https://www.linkedin.com/in/adrian-pe%C3%B1a-319451324)

@@ -23,7 +23,7 @@ My name is Adrian Peña, and I am a graduate student pursuing a Master’s in Co
 * **Tools**: Git, Linux CLI proficiency
 
 📚 **Current Projects**
-* **Spotify Scheduler**: My senior project involves creating a DJ-like system using the **Spotify API** and **React**, allowing admins and partygoers to add songs to scheduled playlists in real time.
+* **Spotify Scheduler**: My senior project involved creating a DJ-like system using the **Spotify API** and **React**, allowing admins and partygoers to add songs to scheduled playlists in real time.
 
 🎯 **Goals**
 * Pursue the **Security+** certification and expand my knowledge in cybersecurity fundamentals.

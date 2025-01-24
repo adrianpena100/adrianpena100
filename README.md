@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Adrian Peña, and I am a graduate student pursuing a Master’s in Computer Science with a focus on AI and cybersecurity. Alongside my studies, I work as a teaching assistant (TA) and research assistant, where I explore federated learning and its applications in cybersecurity. With a background in customer-focused roles and technical education, I bring a unique mix of communication skills and technical knowledge.
+My name is Adrian Peña, and I am a graduate student pursuing a Master’s in Computer Science with a focus on AI and cybersecurity. Alongside my studies, I work as a teaching assistant (TA) and research assistant, where I explore AI and its applications in cybersecurity. With a background in customer-focused roles and technical education, I bring a unique mix of communication skills and technical knowledge.
 
 🛠️ **Technical Skills**
 * **Languages**: Python, Java, C++, C, HTML, CSS, JavaScript, Dart

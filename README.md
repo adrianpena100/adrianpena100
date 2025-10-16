@@ -1,27 +1,38 @@
-## Hi there 👋
+## Hi there 👋  
 
-My name is Adrian Peña, and I am a graduate student pursuing a Master’s in Computer Science. Alongside my studies, I work as a teaching assistant (TA) and research assistant. My background spans from applied AI security to my current interests in Human–AI Interaction (HAI) and ethics in technology.
+My name is **Adrian Peña**, and I am a **graduate student at The University of Texas Rio Grande Valley** pursuing a **Master’s in Computer Science**. I currently serve as both a **Graduate Research Assistant** and **Teaching Assistant**, working at the intersection of **Human–AI Interaction (HAI)**, **AI ethics**, and **federated learning security**.  
 
-🔬 **Research Interests**
-* **Federated Learning & AI Security**: Worked on anomaly detection and robustness in federated systems, including a **PID controller for convergence stability** and adversarial/anomalous client detection using the **Flower framework (flwr)**.
-* **Human–AI Interaction (HAI)**: Currently exploring how humans build **trust in AI systems**, with a focus on ethics, interpretability, explainable AI (XAI),  and the role of AI in decision-making.
-* **Ethics & Future of AI**: Asking the hard questions about **how AI integrates into society**, where it should be trusted, and how humans and machines can work together responsibly.
+---
 
-🛠️ **Technical Skills**
-* **Languages**: Python (primary), Java, C++, C, HTML, CSS, JavaScript, SQL
-* **Frameworks & Libraries**: Flower, PyTorch, React
-* **Tools**: Git, Linux CLI, Jupyter, Optuna, LaTeX
+### 🔬 Research Interests  
+- **Human–AI Interaction & Ethics** – Designing and running controlled experiments to study how **AI disclosure, authorship, and transparency** shape user trust, authenticity, and perceived effort.  
+- **Federated Learning & AI Robustness** – Developed a **PID-based aggregation controller** and **adversarial defense system** in federated learning to improve model stability, accuracy, and anomaly detection.  
+- **Usability & Experimental Design** – Conducting mixed-method studies (Likert scales, think-aloud protocols, behavioral logging) to inform user-centered, ethical AI system design.  
 
-📚 **Projects**
-* **PID-Enhanced FL Aggregation**: Implemented a PID controller in federated averaging to improve convergence under heterogeneous and adversarial conditions.
-* **Anomaly Detection in Federated Learning**: Researched detection methods for anomalous/malicious clients in decentralized training setups.
-* **Spotify Scheduler** (Undergrad Capstone): Built a DJ-like system with the **Spotify API** and **React**, enabling real-time collaborative playlist scheduling.
+---
 
-🎯 **Current Goals**
-* Advance research in **trust, usability, and ethics in AI/HAI**.
-* Build hands-on experience with **HCI/UX frameworks**, trust measurement methods, and design for explainability.
-* Contribute to conversations and research on **the societal role of AI** and how humans make sense of algorithmic systems.
+### 🛠️ Technical Skills  
+- **Languages:** Python, JavaScript, SQL, HTML/CSS  
+- **Frameworks & Tools:** PyTorch, Flower, React, Node.js, Firebase, GitHub, Linux, Figma  
+- **Research & Design:** User-Centered Design, Experimental Design, Usability Testing, AI Transparency  
 
-📫 **Connect With Me**
-* LinkedIn: [Adrian Peña](https://www.linkedin.com/in/adrian-pe%C3%B1a-319451324)
-* GitHub: [adrianpena100](https://github.com/adrianpena100)
+---
+
+### 📚 Highlighted Projects  
+- **HAI Disclosure Experiment** – Designing and implementing a web-based experimental platform (18 conditions) to evaluate how **AI vs human authorship cues** affect user trust and decision-making.  
+- **Arte Virtual Gallery (VR Usability Study)** – Led a qualitative **think-aloud user study** in VR, diagnosing key navigation pain points and proposing **ethical, AI-driven design recommendations** aligned with Microsoft HAX guidelines.  
+- **PID Control for Federated Learning** – Engineered a **Python-based FL system** using the **Flower framework** and **PyTorch**, achieving improved convergence and robustness against adversarial clients.  
+- **Spotify Scheduler (Capstone Project)** – Developed a **React web app** integrated with the **Spotify API** to automate collaborative playlist scheduling and management.  
+
+---
+
+### 🎯 Current Goals  
+- Advance research on **trust, usability, and ethics in AI/HAI**.  
+- Expand into **UX and experimental design frameworks** for evaluating explainable AI (XAI).  
+- Collaborate on **interdisciplinary projects** connecting **AI security, human behavior, and responsible design**.  
+
+---
+
+### 📫 Connect With Me  
+- **LinkedIn:** [Adrian Peña](https://www.linkedin.com/in/adrianpena2025/)  
+- **GitHub:** [adrianpena100](https://github.com/adrianpena100)  

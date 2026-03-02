@@ -1,35 +1,35 @@
 ## Hi there 👋  
 
-My name is **Adrian Peña**, and I am a **graduate student at The University of Texas Rio Grande Valley** pursuing a **Master’s in Computer Science**. I currently serve as both a **Graduate Research Assistant** and **Teaching Assistant**, working at the intersection of **Human–AI Interaction (HAI)**, **AI ethics**, and **federated learning security**.  
+My name is **Adrian Peña**, and I am a **graduate student at The University of Texas Rio Grande Valley** pursuing a **Master’s in Computer Science**. I currently serve as both a **Graduate Research Assistant** and **Teaching Assistant**, working with **distributed machine learning systems**, **federated learning security**, and research involving **Human AI Interaction (HAI)**.
 
 ---
 
 ### 🔬 Research Interests  
-- **Human–AI Interaction & Ethics** – Designing and running controlled experiments to study how **AI disclosure, authorship, and transparency** shape user trust, authenticity, and perceived effort.  
-- **Federated Learning & AI Robustness** – Developed a **PID-based aggregation controller** and **adversarial defense system** in federated learning to improve model stability, accuracy, and anomaly detection.  
-- **Usability & Experimental Design** – Conducting mixed-method studies (Likert scales, think-aloud protocols, behavioral logging) to inform user-centered, ethical AI system design.  
+- **Distributed Machine Learning & Data Systems** – Building and evaluating federated learning environments to study model behavior across distributed clients, focusing on stability, aggregation logic, and large-scale experimentation.  
+- **Federated Learning & AI Robustness** – Developed a **PID-based aggregation controller** and adversarial defense experiments to improve model convergence, robustness, and anomaly detection in distributed environments.  
+- **Human AI Interaction** – Designing controlled experiments to study how AI disclosure, authorship, and transparency influence user trust and decision-making.
 
 ---
 
 ### 🛠️ Technical Skills  
-- **Languages:** Python, JavaScript, SQL, HTML/CSS  
-- **Frameworks & Tools:** PyTorch, Flower, React, Node.js, Firebase, GitHub, Linux, Figma  
-- **Research & Design:** User-Centered Design, Experimental Design, Usability Testing, AI Transparency  
+- **Languages:** Python, SQL, C++, Java, JavaScript, HTML/CSS  
+- **Frameworks & Tools:** PyTorch, Flower, pandas, sci-kit learn, MySQL, React, Node.js, Firebase, GitHub, Linux  
+- **Data & Systems:** Data processing, data pipelines, distributed environments
 
 ---
 
 ### 📚 Highlighted Projects  
-- **HAI Disclosure Experiment** – Designing and implementing a web-based experimental platform (18 conditions) to evaluate how **AI vs human authorship cues** affect user trust and decision-making.  
-- **Arte Virtual Gallery (VR Usability Study)** – Led a qualitative **think-aloud user study** in VR, diagnosing key navigation pain points and proposing **ethical, AI-driven design recommendations** aligned with Microsoft HAX guidelines.  
-- **PID Control for Federated Learning** – Engineered a **Python-based FL system** using the **Flower framework** and **PyTorch**, achieving improved convergence and robustness against adversarial clients.  
-- **Spotify Scheduler (Capstone Project)** – Developed a **React web app** integrated with the **Spotify API** to automate collaborative playlist scheduling and management.  
+- **Federated Learning Robustness System** – Engineered a **Python-based distributed ML system** using the Flower framework and PyTorch to evaluate adversarial behavior and aggregation strategies across multiple experimental settings.  
+- **PID Control for Federated Learning** – Implemented adaptive aggregation logic to improve convergence stability and robustness under dynamic client participation.  
+- **HAI Disclosure Experiment** – Designed and implemented a web-based experimental platform to evaluate how AI versus human authorship cues affect user trust and perceived authenticity.  
+- **Spotify Scheduler (Capstone Project)** – Developed a React web application integrated with the Spotify API to automate collaborative playlist scheduling and backend data workflows.
 
 ---
 
 ### 🎯 Current Goals  
-- Advance research on **trust, usability, and ethics in AI/HAI**.  
-- Expand into **UX and experimental design frameworks** for evaluating explainable AI (XAI).  
-- Collaborate on **interdisciplinary projects** connecting **AI security, human behavior, and responsible design**.  
+- Apply my background in **Python, SQL, and distributed systems** within real-world data and machine learning environments.  
+- Continue developing skills related to **data engineering, ML infrastructure, and backend systems**.  
+- Stay connected to research exploring how humans interact with intelligent systems.
 
 ---
 
